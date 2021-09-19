@@ -1,6 +1,6 @@
 # crud_firebase
 
-A new Flutter application.
+This app was developed to test basic Firebase fucntions, i.e Creating the data in form of collections, Updating the data in those collections, Reading the data in a specific field of a collection, as well as Deleting it.
 
 ## Getting Started
 
